@@ -30,7 +30,7 @@ public class Encapsulation {
         Student s = new Student();
 
         // Setting values
-        s.setName("Tanu");
+        s.setName("Tanu jha");
         s.setAge(24);
 
         // Getting values
